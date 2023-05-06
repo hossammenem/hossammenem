@@ -2,7 +2,7 @@
 
 <p align="center">
     <a href="https://twitter.com/HossamAmenem1">
-    <img alt="Twitter" title="Twitter" src="https://custom-icon-badges.demolab.com/badge/twitter-blue.svg?logo=Twitter"/></a>
+    <img alt="Twitter" title="Twitter" src="https://custom-icon-badges.demolab.com/badge/Twitter-blue?logoColor=white&logo=twitter"/></a>
   <a href="https://dev.to/hossammenem">
     <img alt="My dev.to blog" title="Blog" src="https://custom-icon-badges.demolab.com/badge/Blog-black.svg?logo=dev.to"/></a>
   <a href="https://hossamabdelmenem-portfolio.vercel.app">
