@@ -6,7 +6,7 @@
   <a href="https://twitter.com/HossamAmenem1">
     <img alt="Twitter" title="Twitter" src="https://custom-icon-badges.demolab.com/badge/twitter-blue.svg?logo=twitter"/></a>
   <a href="https://hossamabdelmenem-portfolio.vercel.app">
-    <img alt="Portfolio" title="Portfolio" src="https://custom-icon-badges.demolab.com/badge/Blog-black.svg?logo=dev.to"/></a>
+    <img alt="Portfolio" title="Portfolio" src="https://custom-icon-badges.demolab.com/badge/Portfolio-lightblue.svg?logo=link"/></a>
 </p>
 
 <h2 align="center">Techs I use</h2>
