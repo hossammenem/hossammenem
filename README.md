@@ -3,7 +3,7 @@
 <p align="center">You can find me on</p>
 <p align="center">
     <a href="https://twitter.com/HossamAmenem1">
-    <img alt="Twitter" title="Twitter" src="https://custom-icon-badges.demolab.com/badge/Twitter-blue?logoColor=white&logo=twitter"/></a>
+    <img alt="Twitter" title="Twitter" src="https://custom-icon-badges.demolab.com/badge/Twitter-1d9bf0?logoColor=white&logo=twitter"/></a>
   <a href="https://dev.to/hossammenem">
     <img alt="My dev.to blog" title="Blog" src="https://custom-icon-badges.demolab.com/badge/Blog-black.svg?logo=dev.to"/></a>
   <a href="https://hossamabdelmenem-portfolio.vercel.app">
