@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://dev.to/hossammenem">
-    <img alt="My dev.to blog" title="Blog" src="https://freshidea.com/jonah/app/youtube-stats-badges/subscribers-badge.php"/></a>
+    <img alt="My dev.to blog" title="Blog" src="https://custom-icon-badges.demolab.com/badge/Blog-black.svg?logo=dev.to"/></a>
 </p>
 
 <h2 align="center">Techs I use</h2>
