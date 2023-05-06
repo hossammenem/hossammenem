@@ -1,6 +1,6 @@
 ### Hello There 👋, I’m Hossam
 
-You can find me on:
+<p align="center">You can find me on</p>
 <p align="center">
     <a href="https://twitter.com/HossamAmenem1">
     <img alt="Twitter" title="Twitter" src="https://custom-icon-badges.demolab.com/badge/Twitter-blue?logoColor=white&logo=twitter"/></a>
