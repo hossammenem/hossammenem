@@ -1,8 +1,8 @@
 ### Hello There 👋, I’m Hossam
 
-<p>I’m a full-stack web developer who is interested in web security and low-level stuff.</p>
+<p>I’m a full-stack web developer, I'm also interested in web security and low-level stuff.</p>
 
-<p> You can find me on
+<p> you can find me on
 <a href="https://twitter.com/HossamAmenem1">
     <img alt="Twitter" title="Twitter" src="https://custom-icon-badges.demolab.com/badge/Twitter-1d9bf0.svg?logo=twitter&logoColor=white"/></a>
 <a href="https://dev.to/hossammenem">
