@@ -2,7 +2,8 @@
 
 <p>I’m a full-stack web developer, I'm also interested in web security and low-level stuff.</p>
 
-<p> you can find me on
+<p> you can find me on</p>
+<p>
 <a href="https://twitter.com/HossamAmenem1">
     <img alt="Twitter" title="Twitter" src="https://custom-icon-badges.demolab.com/badge/Twitter-1d9bf0.svg?logo=twitter&logoColor=white"/></a>
 <a href="https://dev.to/hossammenem">
