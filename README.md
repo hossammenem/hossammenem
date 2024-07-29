@@ -4,7 +4,7 @@
 
 <p> you can find me on</p>
 <p>
-<a href="https://twitter.com/HossamAmenem1">
+<a href="https://x.com/lahc01">
     <img alt="Twitter" title="Twitter" src="https://custom-icon-badges.demolab.com/badge/Twitter-1d9bf0.svg?logo=twitter&logoColor=white"/></a>
 <a href="https://dev.to/hossammenem">
     <img alt="My dev.to blog" title="Blog" src="https://custom-icon-badges.demolab.com/badge/Blog-black.svg?logo=dev.to"/></a>
